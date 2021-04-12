@@ -8,4 +8,4 @@ Please follow the instructions given in the notebook for executing the code. Not
 
 Due to the glitch in Codalab, we couldn't submit our files to the leaderboard on time. Below is our final result on the leaderboard (f1-overlap of 0.24). Please note that the score mentioned in the report is outdated.
 
-![alt text](https://raw.githubusercontent.com/sashankbajaru/CS60075-Team-6-Task-8/main/team6_codalab_screenshot.png?token=AK2MSTP3O33R2LYTRVSX73TAOSPZU)
+![alt text](https://github.com/sashankbajaru/CS60075-Team-6-Task-8/blob/main/team6_codalab_screenshot.png?raw=true)
