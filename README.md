@@ -6,7 +6,7 @@ https://github.com/harperco/MeasEval
 
 Please follow the instructions given in the notebook for executing the code. Note that one has to execute subtask-3 twice (once for entity spans and once for property spans) as given in the instructions.
 
-As the video is too large to be uploaded on GitHub, we uploaded it on YouTube and providing the link. (also provided in the document uploaded on moodle)
+As the video is too large to be uploaded on GitHub, we uploaded it on YouTube and providing the link. (also provided in the report uploaded on moodle)
 https://youtu.be/v-t94wYew58  
 
 Due to the glitch in Codalab, we couldn't submit our files to the leaderboard on time. Below is our final result on the leaderboard (f1-overlap of 0.24). Please note that the score mentioned in the report is outdated.
