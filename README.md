@@ -4,4 +4,4 @@ Google colab is recommended for executing the notebook provided.
 Please download the data from the following link (and upload it in Drive if you are using Google colab).
 [https://competitions.codalab.org/competitions/25770]
 
-Please follow the instructions given in the notebook for executing the code.
+Please follow the instructions given in the notebook for executing the code. Note that one has to execute subtask-3 twice (once for entity spans and once for property spans) as given in the instructions.
